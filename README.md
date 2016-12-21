@@ -1,1 +1,1 @@
-# ALURA---SQLServer-I-desvendando-o-banco-de-dados
+# CURSO ALURA SQL SERVER PARTE I - DESVENDANDO O BANCO DE DADOS
